@@ -1,0 +1,12 @@
+# Credenciais — NUNCA versionar
+.env
+
+# Logs gerados em tempo de execução
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
